@@ -1,8 +1,12 @@
-fastapi
-uvicorn
-numpy
-tensorflow
 Python-IO
-pillow
+fastapi
+ipympl
+matplotlib
+numpy
 opencv-contrib-python
+pandas
+pillow
 python-multipart
+scikit-learn
+tensorflow
+uvicorn
