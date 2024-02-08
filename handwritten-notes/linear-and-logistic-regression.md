@@ -1,4 +1,5 @@
 ![linear and logistic regression_page-0001](https://github.com/Rishabh672003/Learning-machine-learning/assets/53911515/c0579e32-9da0-4039-a6f1-ebb521d4dc9b)
+![linear and logistic regression_page-0002](https://github.com/Rishabh672003/Learning-machine-learning/assets/53911515/016497e2-c9f0-4c8b-935a-3b8b81a02de0)
 ![linear and logistic regression_page-0003](https://github.com/Rishabh672003/Learning-machine-learning/assets/53911515/6565bf4b-fb65-43d1-a6c7-6ccb1f12cde1)
 ![linear and logistic regression_page-0004](https://github.com/Rishabh672003/Learning-machine-learning/assets/53911515/29ccf5a2-bf23-436f-ad43-9177c6c38a3d)
 ![linear and logistic regression_page-0005](https://github.com/Rishabh672003/Learning-machine-learning/assets/53911515/76050c7b-3b47-4b9b-b3b4-992e05a4605a)
