@@ -22,6 +22,7 @@
    3. Do Andrew Ng's [`Deep Learning Specialization`](https://www.coursera.org/specializations/deep-learning?irgwc=1#courses) course.
    4. Than do [Hugging Face' NLP course](https://huggingface.co/learn/nlp-course/chapter1/1), if you are interested in
       NLP. or Any other Specific ML course you are interested in
+   5. Learn data scraping as Data is the real gold these days, links - [Web Scraping with BeautifulSoup and Requests](https://www.youtube.com/watch?v=ng2o98k983k&pp=ygUXY29yZXkgc2NoYWZlciBiZWF1dGlmdWw%3D)
 
 5. Start Implementing and do real projects
    - Do Kaggle challenges
