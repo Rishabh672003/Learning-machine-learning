@@ -18,12 +18,15 @@
 
    1. First do Andrew Ng's [`Machine Learning Specialization`](https://www.coursera.org/specializations/machine-learning-introduction#courses)
       Course, do a framework like Pytorch, Sci-kit learn or Tensorflow.
-   2. Do Andre Karpathy's [`Neural Networks: Zero to Hero`](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
-   3. Do Andrew Ng's [`Deep Learning Specialization`](https://www.coursera.org/specializations/deep-learning?irgwc=1#courses) course.
-   4. Than do [Hugging Face' NLP course](https://huggingface.co/learn/nlp-course/chapter1/1), if you are interested in
+   2. (optional) Do [Machine Learning from Scratch - Python Tutorials](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+   3. Do Andre Karpathy's [`Neural Networks: Zero to Hero`](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+   4. Do Andrew Ng's [`Deep Learning Specialization`](https://www.coursera.org/specializations/deep-learning?irgwc=1#courses) course.
+   5. Than do [Hugging Face' NLP course](https://huggingface.co/learn/nlp-course/chapter1/1), if you are interested in
       NLP. or Any other Specific ML course you are interested in
-   5. Learn data scraping as Data is the real gold these days, links - [Web Scraping with BeautifulSoup and Requests](https://www.youtube.com/watch?v=ng2o98k983k&pp=ygUXY29yZXkgc2NoYWZlciBiZWF1dGlmdWw%3D)
+   6. Learn data scraping as Data is the real gold these days, links - [Web Scraping with BeautifulSoup and Requests](https://www.youtube.com/watch?v=ng2o98k983k&pp=ygUXY29yZXkgc2NoYWZlciBiZWF1dGlmdWw%3D)
 
-5. Start Implementing and do real projects
+5. Start Practicing/Implementing and do real projects
+   - Do this [Intro to machine learning by Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
+   - Do this [Intermediate machine learning by Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning)
    - Do Kaggle challenges
    - Read research Papers, and try to Implement the paper and Re-create the results of the paper.
