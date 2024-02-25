@@ -27,6 +27,8 @@
    7. Learn data scraping as Data is the real gold these days, links - [`Web Scraping with BeautifulSoup and Requests`](https://www.youtube.com/watch?v=ng2o98k983k&pp=ygUXY29yZXkgc2NoYWZlciBiZWF1dGlmdWw%3D)
 
 5. Start Practicing/Implementing and do real projects
+   - Do this [`Neetcode ML`](https://neetcode.io/practice?subpage=practice&tab=coreSkills&topic=Machine%20Learning),
+     This uses pytorch so learn that before.
    - Do this [`Intro to machine learning by Kaggle`](https://www.kaggle.com/learn/intro-to-machine-learning)
    - Do this [`Intermediate machine learning by Kaggle`](https://www.kaggle.com/learn/intermediate-machine-learning)
    - Do Kaggle challenges
